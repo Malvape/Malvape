@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🙋🏻‍♀️ Introducing Myself
 
 <!--
 **Malvape/Malvape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello, I'm Mauricio. Data Analyst with expertise in data analysis and reporting, query optimization, data modelling and visualization. 
+
+### 🛠️ Tools i use daily
+
+- Language: SQL, Python, DAX, M, Bash
+- Database: Microsoft SQL Server
+- Visualization: Power BI, Power Point
+- Modeling: Power Pivot (Power BI, Excel)
+
+### 📚 Projects
+
+Welcome to my portfolio, where I showcase my 
