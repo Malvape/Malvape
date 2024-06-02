@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - Hello, I'm Mauricio.
 - I'm interested in data Science and data analytics.
 - Here you can see some of my proyects: [Portofolio](https://github.com/Malvape/Portofolio-Guide)
+- [Here](https://medium.com/@maalq0105) is my blog on medium.
 - Find me on [Linkedin](https://www.linkedin.com/in/mauricioalvarezq/) 
   
 
